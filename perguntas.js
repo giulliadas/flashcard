@@ -1,5 +1,5 @@
 criaCartao(
-    'Cuidados com a pele',
+    'Cuidados com a peles',
     'para que serve o demaquilante facial?',
     'limpar o rosto e tirar as impurezas por completo'
 )
